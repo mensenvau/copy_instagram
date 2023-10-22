@@ -1,2 +1,2 @@
-# instagram_to_telegram
-instagram_to_telegram
+# copy instagram
+copy instagram
